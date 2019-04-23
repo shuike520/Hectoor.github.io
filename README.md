@@ -1,5 +1,5 @@
-# Hectoor.Z Blog
+# shuike Blog
 
 ## Thanks
 
-This theme is forked from [Huxpro/huxblog-boilerplate](https://github.com/Huxpro/huxblog-boilerplate). Thanks a lot!  
+This theme is forked from [Hector Cheung](https://github.com/Hectoor). Thanks a lot!  
